@@ -1,0 +1,1 @@
+{"compilerOptions":{"experimentalDecorators":true,"jsx":"react","module":"commonjs","target":"es2021","lib":["ES2021","DOM"],"moduleResolution":"node","outDir":"out","sourceMap":true,"strict":true,"rootDir":".","esModuleInterop":true,"allowSyntheticDefaultImports":true},"exclude":["node_modules",".vscode-test","out"],"ts-node":{"files":true}}
